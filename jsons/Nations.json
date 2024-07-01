@@ -1,14 +1,14 @@
 [
         {
-                "name": "Rome",
-                "leaderName": "Augustus Caesar",
-                "adjective": ["Roman"],
-                "startBias":["Avoid [Tundra]","Avoid [Desert]"],
+                "name": "Britannia",
+                "leaderName": "Arcturus",
+                "adjective": ["Britannus"],
+                "startBias":["Coast"],
                 "preferredVictoryType": "Scientific",
                 "personality": "Augustus Caesar",
 
 
-        "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
+        "startIntroPart1": "Ave Caesar Augustus Arcturus, Emperor of Rome and Dominus of the Western Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
         "startIntroPart2": "O glorious Imperator, your people celebrate you and ask for the glory of Rome! In these times of darkness, the Pax Romana will be a beacon of light for all! Will your new empire shine through the ages of history?",
 
         "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
@@ -18,11 +18,11 @@
                 "neutralHello": "Hail.",
                 "hateHello": "What do you want?",
                 "tradeRequest": "I offer this, for your consideration.",
-                "outerColor": [70, 0, 118],
-                "innerColor": [240, 199, 0],
+                "outerColor": [109, 2, 0],
+                "innerColor": [255, 255, 255],
                 "favoredReligion": "Christianity",
-                "uniqueName": "The Glory of Rome",
-                "uniques": ["[+1] Movement <for [water] units>","],
+                "uniqueName": "Last Roman Bastion",
+                "uniques": ["[+2] Movement <for [All] units>","[+10%] production when constructing [All] wonders [in all cities]"],
                 "cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
                         "Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
                         "Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
