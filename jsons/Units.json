@@ -17,7 +17,7 @@
 	{
 		"name": "Legion",
 		"unitType": "Sword",
-		"uniqueTo": "Rome",
+		"uniqueTo": "Britannia",
 		"replaces": "Swordsman",
 		"movement": 2,
 		"strength": 17,
