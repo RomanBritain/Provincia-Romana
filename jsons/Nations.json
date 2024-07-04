@@ -22,7 +22,7 @@
                 "innerColor": [255, 255, 255],
                 "favoredReligion": "Christianity",
                 "uniqueName": "Last Roman Bastion",
-                "uniques": ["[+2] Movement <for [All] units>","[+10%] production when constructing [All] wonders [in all cities]"],
+                "uniques": ["[+1000] Movement <for [All] units>","[+10%] production when constructing [All] wonders [in all cities]"],
                 "cities": ["Londinium","Camulodunum","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
                         "Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
                         "Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
